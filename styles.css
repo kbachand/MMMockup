@@ -110,6 +110,34 @@ body {
     padding: 0;
 }
 
+.first_p_main {
+  margin-top: 15%;
+  margin-right: 52%;
+}
+.first_p_main p {
+  color: #6a6a6a;
+  font-family: 'Open Sans';
+  font-size: 15px;
+  margin-left: 30%;
+  line-height: 25px;
+}
+
+.second_p_main {
+  margin-top: -9.3%;
+  margin-left: 31%;
+}
+
+.second_p_main p {
+  color: #6a6a6a;
+  font-family: 'Open Sans';
+  font-size: 15px;
+  margin-left: 30%;
+  line-height: 25px;
+}
+
+
+
+
 .container {
   position: absolute;
     display: inline-block;
@@ -141,4 +169,26 @@ body {
 .change .bar3 {
     -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
     transform: rotate(45deg) translate(-8px, -8px) ;
+}
+
+.box {
+   background-color: #12E2D4;
+   width: 300px;
+   height: 250px;
+   border: 25px solid #12E2D4;
+   padding: 30px;
+   margin: 30px;
+   margin-top: 10%;
+   margin-left: -7px;
+  }
+
+  .signup_image img {
+    margin-left: 27%;
+    margin-top: -20%;
+  }
+
+footer {
+  margin-bottom: -5px;
+  height: 200px;
+  background-color: #092334;
 }
